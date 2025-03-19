@@ -98,4 +98,6 @@ Semua token akan dihapus dan sesi user akan berakhir.
 
 Dengan implementasi Idempotency Key, transaksi lebih terjamin keamanannya, tidak duplikat, dan lebih andal. Sistem ini sangat cocok untuk aplikasi yang menangani transaksi sensitif seperti pembayaran atau pemesanan.
 
+Terima kasih kepada Alex Hyett [Youtube Links](https://www.youtube.com/watch?v=XAccGbtl3Z8&t=65s)
+
 Jika ada pertanyaan atau masukan, silakan diskusi lebih lanjut! 🚀
